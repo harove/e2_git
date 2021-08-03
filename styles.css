@@ -1,0 +1,11 @@
+header h1{
+    background-color: aqua;
+}
+
+li {
+    background-color: bisque;
+}
+
+article header h1{
+    background-color: blueviolet;
+}
